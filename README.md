@@ -91,8 +91,9 @@
 ## 🐍 Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://github.com/Lochit-Vinay/Lochit-Vinay/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/Lochit-Vinay/Lochit-Vinay/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
+
 
 
 ---

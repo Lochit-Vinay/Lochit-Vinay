@@ -124,3 +124,17 @@
 <h3 align="center">"Code is like poetry — I write my verses in Kotlin & JavaScript." — Lochit Vinay</h3>
 
 ---
+
+---
+
+---
+
+<h3 align="center">✨ You made it to the end! Respect ✨</h3>
+
+<p align="center">
+   🚀 Keep coding, keep innovating, and keep inspiring! 💡
+</p>
+
+
+
+---

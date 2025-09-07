@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Lochit Vinay</h1>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/assets/wave.gif" width="35px">
 <h3 align="center">🚀 Android & Web Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
@@ -32,11 +33,12 @@
 
 <p align="center">
 
+<!-- Right-Aligned GIF -->
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="right" width="550"/>
+
 **Mobile Dev**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
@@ -63,6 +65,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </p>
+
 
 ---
 

@@ -21,11 +21,7 @@
 
 ---
 
-## 🏆 My GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lochit-Vinay&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
 
 ---
 

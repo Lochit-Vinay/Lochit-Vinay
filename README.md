@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Lochit Vinay</h1>
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/assets/wave.gif" width="35px">
-<h3 align="center">🚀 Android Developer | Open Source Enthusiast | Tech Explorer</h3>
+<h3 align="center">🚀 Web Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C6FF&width=600&lines=Android+Developer+📱;Open+Source+Contributor+🌐;Always+Learning+New+Things+🚀" />

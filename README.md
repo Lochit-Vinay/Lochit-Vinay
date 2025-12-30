@@ -60,18 +60,6 @@
 
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lochit-Vinay&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochit-Vinay&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
-
-
----
 
 ## 🌟 Contribution Graph
 

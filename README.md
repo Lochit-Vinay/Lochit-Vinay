@@ -97,7 +97,7 @@
 
 ---
 
-<h3 align="center">"Code is like poetry — I write my verses in Kotlin & JavaScript." — Lochit Vinay</h3>
+<h3 align="center">"Code is like poetry — I write my verses in C++ & JavaScript." — Lochit Vinay</h3>
 
 ---
 

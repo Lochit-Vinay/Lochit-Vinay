@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Android projects  
-- 🌱 **Learning:** Mastering **Jetpack Compose** & **Docker**  
+- 🔭 **Currently working on:** DevOps projects  
+- 🌱 **Learning:** Mastering **DevOps** & **DSA**  
 - 💬 **Ask me about:** Android, Kotlin, Docker  
 - 📫 **Reach me at:** [lochitvinay111@gmail.com](mailto:lochitvinay111@gmail.com)  
 - ⚡ **Fun Fact:** My code never breaks… it just starts producing unexpected features 😂

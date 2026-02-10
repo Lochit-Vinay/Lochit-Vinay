@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** DevOps projects  
+- 🔭 **Currently working on:** DevOps and Web projects  
 - 🌱 **Learning:** Mastering **DevOps** & **DSA**  
-- 💬 **Ask me about:** Android, Kotlin, Docker  
+- 💬 **Ask me about:** Web Dev, Kotlin, Docker  
 - 📫 **Reach me at:** [lochitvinay111@gmail.com](mailto:lochitvinay111@gmail.com)  
 - ⚡ **Fun Fact:** My code never breaks… it just starts producing unexpected features 😂
 

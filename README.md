@@ -110,16 +110,10 @@
 
 ---
 
----
-
----
-
 <h3 align="center">✨ You made it to the end! Respect ✨</h3>
 
 <p align="center">
    🚀 Keep coding, keep innovating, and keep inspiring! 💡
 </p>
-
-
 
 ---

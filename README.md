@@ -62,6 +62,14 @@
 
 ---
 
+## 🏆 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@lochitvinay">
+    <img src="https://holopin.me/lochitvinay" alt="Holopin Badges"/>
+  </a>
+</p>
+
 ## 🌟 Contribution Graph
 
 <p align="center">

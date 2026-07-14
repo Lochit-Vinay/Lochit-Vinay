@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 **Currently working on:** Open Source and Web projects  
-- 🌱 **Learning:** Mastering **DSA**  
+- 🌱 **Learning:** Mastering **DSA** & **Go**  
 - 💬 **Ask me about:** Web Dev, Go, Docker  
 - 📫 **Reach me at:** [lochitvinay111@gmail.com](mailto:lochitvinay111@gmail.com)  
 - ⚡ **Fun Fact:** My code never breaks… it just starts producing unexpected features 😂
